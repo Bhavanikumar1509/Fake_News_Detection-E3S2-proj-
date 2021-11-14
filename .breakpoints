@@ -1,0 +1,24 @@
+{
+  "files": {
+    "E3/main.py": [
+      {
+        "id": "4b482b2e-562f-41e1-8e20-55b42017f6f6",
+        "line": 1,
+        "version": 368,
+        "index": 0
+      },
+      {
+        "id": "544d636e-942c-415d-b26a-9866204fbbc4",
+        "line": 1,
+        "version": 368,
+        "index": 0
+      },
+      {
+        "id": "8234d3ee-0652-486b-9ce6-8c52d8a8878c",
+        "line": 8,
+        "version": 368,
+        "index": 291
+      }
+    ]
+  }
+}
