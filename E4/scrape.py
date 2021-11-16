@@ -26,9 +26,9 @@ for page in range(1,pagesToGet+1):
     frame=[]
     links=soup.find_all('li',attrs={'class':'o-listicle__item'})
     print(len(links))
-    filename="NEWS.csv"
+    filename="news/NEWS.csv"
     f=open(filename,"w", encoding = 'utf-8')
-    headers="Statement,Link,Date, Source, Label\n"
+    headers="Statement,Link,Date,source,Label\n"
     f.write(headers)
     
     for j in links:
@@ -42,5 +42,5 @@ for page in range(1,pagesToGet+1):
         f.write(Statement.replace(",","^")+","+Link+","+Date.replace(",","^")+","+Source.replace(",","^")+","+Label.replace(",","^")+"\n")
     upperframe.extend(frame)
 f.close()
-data=pd.DataFrame(upperframe, columns=['Statement','Link','Date','Source','Label'])
+data=pd.DataFrame(upperframe, columns=['Statement','Link','Date','source','Label'])
 data.head()
