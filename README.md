@@ -1,7 +1,7 @@
 #MINI PROJECT_(IIIT-ONGOLE )
-#FAKE NEWS DETECTION USING MACHINE LEARNING
+##FAKE NEWS DETECTION USING MACHINE LEARNING
 
-ENVIRONMENT: 
+###ENVIRONMENT: 
  I have choosen Repl.it webbrowser ide for my project development as it is free open source and user friendly.
  
  REQUIREMENTS:
