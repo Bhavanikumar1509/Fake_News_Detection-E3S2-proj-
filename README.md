@@ -3,6 +3,11 @@ FAKE NEWS DETECTION USING MACHINE LEARNING
 
 <hr/>
 
+## Description
+<li>This project is a part of our academic curriculum that gives us the knowledge about the topic and the subject and also helped to understand the theoritical concepts practically by following all the steps of SDLC,Agile Methodologies.</li>
+
+<hr/>
+
 ## TEAM_MEMBERS
  <li>Bhavani Kumar</li>
  <li>Tejaswini</li>
@@ -11,7 +16,7 @@ FAKE NEWS DETECTION USING MACHINE LEARNING
  <li>Revathi</li>
  
 ## PROJECT_GUIDE
-<li>Vinitha M.Tech Asst.Professor(RGUKT_IIIT Ongole)</li>
+<li>We developed this project under the guidance of M.Vinitha M.Tech Asst.Professor(RGUKT_IIIT Ongole)</li>
  
 ## ENVIRONMENT
  <li>We have choosen [Repl.it](https://replit.com/) web-browser ide for my project development as it is free open source and user friendly and can develop multiple members at a time.</li>
