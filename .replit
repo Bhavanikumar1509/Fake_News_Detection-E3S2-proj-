@@ -1,1 +1,0 @@
-run="cd E4; source bin/activate ; pip install -r req.txt ; python scrape.py ; python main.py"
